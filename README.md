@@ -321,6 +321,3 @@ Tables
 GitHub: https://github.com/EEE001
 
 Feel free to connect or explore my other projects on GitHub.
-
-GitHub:
-https://github.com/EEE001
